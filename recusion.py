@@ -13,3 +13,5 @@ def ispalindrome1(s,indent):
         print(indent, "准备返回",ans)
 
 print(ispalindrome("abccba"))
+
+'''this id github learnning'''
